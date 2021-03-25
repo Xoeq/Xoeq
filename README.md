@@ -1,16 +1,26 @@
-### Hi there 👋
+### xoeq#0205
 
-<!--
-**Xoeq/Xoeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xoeq&count_private=true&show_icons=true&theme=onedark&hide_border=true"/>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoeq&exclude_repo=Pixel-Tamers-RE&theme=onedark&layout=compact&hide_border=true"/>
+
+</details>
+
+ <br />
+ <br />
+ 
+- I'm in Central Time, reach out accordingly.
+
+- Even though I'm an intern at Sywork, I'm still open for side-work! DM me through Discord to find my LinkedIn profile with all relevant experience.
+
+<br />
+<br />
+<br />
+
+
+`Fun fact: I've gone under the similar alias "Zoeq" on underground IRC networks!`
